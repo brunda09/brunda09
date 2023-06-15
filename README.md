@@ -20,6 +20,11 @@ I am Brunda Uppalapati 😃. I am from Telangana, India.
 - [Master’s Degree](https://github.com/brunda09/prior-knowledge-layer-for-sequence-tagging) @ Florida Polytechnic University (Currently pursuing).
 - [Bachelor's Degree](https://github.com/brunda09/bachelor-diploma) @ CMR Group of Institutions (2017 - 2021)
 
+## Projects 🐾
+- Analysis of Olympics: Athlete events and effects of socio-economic events using R
+- Fake news detection using ML
+- Online Simulation of Telephone Directory using PHP
+  
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS**.
