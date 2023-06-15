@@ -6,6 +6,15 @@
 
 I am Brunda Uppalapati 😃. I am from Telangana, India and currently pursuing my Masters from Florida Polytechnic University, Lakeland 🏫. I love to explore and learn about new things.
 
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **HTML, Javascript, CSS**.
+- Making for **Relational Database Management Systems**.
+- Robust full-stack system design implementation.
+- Solving Data structure and algorithm questions in **Java**.
+- Data Analysis using **R Programming**.(Still learning)
+
+![Brunda's github stats](https://github-readme-stats.vercel.app/api?username=brunda09&hide=["issues"]&show_icons=true)
 
 <!--
 **brunda09/brunda09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
