@@ -1,6 +1,4 @@
-[<img src="https://raw.githubusercontent.com/brun09/brun09/master/intro.gif" alt="👋 Hi there! I'm (Brun(09|da )|https://brunda09)" title="👋 Hi there! I'm (brun(09|da)|https://brunda09)"/>](https://brunda09/)
-
-![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--
 **brunda09/brunda09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
